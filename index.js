@@ -1,4 +1,3 @@
-
 let nomeDoHeroi = "Hulk" 
 let xpDoHeroi = 3700
 let nivelDoHeroi = ""
